@@ -28,7 +28,7 @@ int main(int argc, char **argv)
 {
 	if (argc < 3) {
 		cout << "version 1.0 Usage: " << endl;
-		cout << "      " << argv[0] << " " << "<number_of_min_in_2 digits>" << " " << "<SerialNo_today>" << " [YYMMDD]" << endl;
+		cout << "      " << argv[0] << " " << "<number_of_min_in>" << " " << "<SerialNo_today>" << " [YYMMDD]" << endl;
 		return 1;
 	}
 	
